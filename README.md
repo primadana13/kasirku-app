@@ -1,0 +1,2 @@
+# kasirku-app
+POS-prima
